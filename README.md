@@ -1,4 +1,4 @@
-# CSS Architecture
+# Notes on CSS
 
 Notes on css architecture
 
